@@ -1,0 +1,11 @@
+================================
+Deployment Report
+================================
+Project      : paystack-clone
+Environment  : dev
+App Port     : 3000
+Database     : payments_db
+Generated At : 2026-07-25T18:45:16Z
+
+Password Length : 16
+Managed by      : Terraform
